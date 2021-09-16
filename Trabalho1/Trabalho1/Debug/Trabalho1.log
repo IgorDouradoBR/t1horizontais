@@ -1,0 +1,7 @@
+﻿  AABB.cpp
+  Linha.cpp
+E:\PUCRS\21-2\FundamentosCG\FundamentosDeCG_trabs\Trabalho1\Trabalho1\src\Linha.cpp(29,30): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+E:\PUCRS\21-2\FundamentosCG\FundamentosDeCG_trabs\Trabalho1\Trabalho1\src\Linha.cpp(30,30): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+  Gerando Código...
+  Trabalho1.vcxproj -> E:\PUCRS\21-2\FundamentosCG\FundamentosDeCG_trabs\Trabalho1\Debug\Trabalho1.exe
+          1 arquivo(s) copiado(s).
